@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/kenricktam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="30"  alt="Linkedin" /></a>&nbsp;
 <a href="mailto:kenricktam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="30"  alt="Email" /></a>&nbsp;
  <a href="github.com"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="100" height="30"  alt="Email" /></a>&nbsp; 
-  <a href="gitlab.com"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" width="100" height="30"  alt="Email" /></a>&nbsp;
+  <a href="https://gitlab.com/Knrktam"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" width="100" height="30"  alt="Email" /></a>&nbsp;
  
 </p>
 <br />
