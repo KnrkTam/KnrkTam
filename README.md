@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://kenricktam.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
 
-<a href="https://www.linkedin.com/in/kenricktam/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Linkedin" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/kenricktam/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Linkedin" /></a>&nbsp;
 </p>
 <br />
 
