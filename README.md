@@ -3,9 +3,9 @@
   <h1 align="center"><b>Hi there, I'm Kenrick</h1>
 </p>
 <p align="center">
-<a href="https://kenricktam.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="20" width="100" /></a>&nbsp
-<a href="https://www.linkedin.com/in/kenricktam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="20"  alt="Linkedin" /></a>&nbsp;
-<a href="mailto:kenricktam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="20"  alt="Email" /></a>&nbsp;
+<a href="https://kenricktam.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="30" width="100" /></a>&nbsp
+<a href="https://www.linkedin.com/in/kenricktam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="30"  alt="Linkedin" /></a>&nbsp;
+<a href="mailto:kenricktam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="30"  alt="Email" /></a>&nbsp;
  
 </p>
 <br />
