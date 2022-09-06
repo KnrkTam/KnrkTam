@@ -20,13 +20,6 @@
 Timezone: Toronto (GMT+4)
 </p>
 <br />
-
-<p>:atom_symbol: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
-<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
-<p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
-<p>:brain: I studied Psychology in university, but I am now a selftaught developer based in Toronto. </p>
-
-<br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
 </p>
