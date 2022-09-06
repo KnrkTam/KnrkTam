@@ -15,23 +15,15 @@
 
 <h2 align="center">About me </h2>
 <p align="center">
-Tech Stacks
-</p>
-<p>
-  
-</p>
-<p align="center">
 Timezone: Toronto (GMT+4)
 </p>
 <br />
 
-<p>:muscle: I am currently ... helping others to get into tech too by creating content using Twitter.</p>
 <p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
 <p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
 <p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
-<p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. </p>
+<p>:ghost: I studied Psychology in university, but I am now a selftaught developer based in Toronto. </p>
 
-<br />
 <br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
@@ -52,7 +44,7 @@ Timezone: Toronto (GMT+4)
    </p>
 <br />
 <p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media2.giphy.com/media/laYCKbWHzpHrY6vI4y/giphy.gif?cid=ecf05e47rn414979gz0xciqjf464aegcn7ch5vvhyua35t5m&rid=giphy.gif&ct=s" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 <br />
 
