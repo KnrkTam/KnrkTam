@@ -44,7 +44,7 @@ Timezone: Toronto (GMT+4)
    </p>
 <br />
 <p align="center">
-<img src="https://media2.giphy.com/media/laYCKbWHzpHrY6vI4y/giphy.gif?cid=ecf05e47rn414979gz0xciqjf464aegcn7ch5vvhyua35t5m&rid=giphy.gif&ct=s" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media2.giphy.com/media/laYCKbWHzpHrY6vI4y/giphy.gif?cid=ecf05e47rn414979gz0xciqjf464aegcn7ch5vvhyua35t5m&rid=giphy.gif&ct=s" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 <br />
 
