@@ -3,8 +3,7 @@
   <h1 align="center"><b>Hi there, I'm Kenrick <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
 <p align="center">
-<a href="https://kenricktam.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
-
+<a href="https://kenricktam.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/kenricktam/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Linkedin" /></a>&nbsp;
 </p>
 <br />
