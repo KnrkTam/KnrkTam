@@ -12,7 +12,7 @@
 </p>
 <br />
 
-<p align="center">Enthusiastic selftaught fullstack developer since 2020 using ReactJS(node.js) & TypeScript. Scrum & Agile inspired.</p>
+<p align="center">Enthusiastic selftaught fullstack developer since 2020 <br>ReactJS(node.js) & TypeScript. Scrum & Agile inspired.</p>
 <br />
 <p align="center">
 Timezone: Toronto (GMT+4)
